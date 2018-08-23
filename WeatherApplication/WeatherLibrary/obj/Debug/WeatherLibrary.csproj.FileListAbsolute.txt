@@ -1,0 +1,86 @@
+C:\Users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherLibrary\bin\Debug\WeatherLibrary.dll
+C:\Users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherLibrary\bin\Debug\WeatherLibrary.pdb
+C:\Users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherLibrary\obj\Debug\WeatherLibrary.csprojResolveAssemblyReference.cache
+C:\Users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherLibrary\obj\Debug\WeatherLibrary.dll
+C:\Users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherLibrary\obj\Debug\WeatherLibrary.pdb
+C:\Users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherLibrary\bin\Debug\Mono.Android.dll
+C:\Users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherLibrary\bin\Debug\Mono.Android.xml
+C:\Users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherLibrary\bin\Debug\ModernHttpClient.dll
+C:\Users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherLibrary\obj\Debug\WeatherLibrary.dll.mdb
+C:\Users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherLibrary\bin\Debug\WeatherLibrary.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherLibrary\bin\Debug\WeatherLibrary.dll
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherLibrary\bin\Debug\WeatherLibrary.pdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherLibrary\bin\Debug\ModernHttpClient.dll
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherLibrary\obj\Debug\WeatherLibrary.csprojResolveAssemblyReference.cache
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherLibrary\obj\Debug\WeatherLibrary.dll
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherLibrary\obj\Debug\WeatherLibrary.pdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherLibrary\obj\Debug\WeatherLibrary.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherLibrary\bin\Debug\WeatherLibrary.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherLibrary\bin\Debug\WeatherLibrary.dll
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherLibrary\bin\Debug\WeatherLibrary.pdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherLibrary\bin\Debug\ModernHttpClient.dll
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherLibrary\obj\Debug\WeatherLibrary.csprojResolveAssemblyReference.cache
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherLibrary\obj\Debug\WeatherLibrary.dll
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherLibrary\obj\Debug\WeatherLibrary.pdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherLibrary\obj\Debug\WeatherLibrary.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherLibrary\bin\Debug\WeatherLibrary.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherLibrary\bin\Debug\WeatherLibrary.dll
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherLibrary\bin\Debug\WeatherLibrary.pdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherLibrary\bin\Debug\ModernHttpClient.dll
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherLibrary\obj\Debug\WeatherLibrary.csprojResolveAssemblyReference.cache
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherLibrary\obj\Debug\WeatherLibrary.dll
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherLibrary\obj\Debug\WeatherLibrary.pdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherLibrary\obj\Debug\WeatherLibrary.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherLibrary\bin\Debug\WeatherLibrary.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherLibrary\bin\Debug\WeatherLibrary.dll
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherLibrary\bin\Debug\WeatherLibrary.pdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherLibrary\bin\Debug\ModernHttpClient.dll
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherLibrary\obj\Debug\WeatherLibrary.csprojResolveAssemblyReference.cache
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherLibrary\obj\Debug\WeatherLibrary.dll
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherLibrary\obj\Debug\WeatherLibrary.pdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherLibrary\obj\Debug\WeatherLibrary.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherLibrary\bin\Debug\WeatherLibrary.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherLibrary\obj\Debug\WeatherLibrary.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherLibrary\bin\Debug\WeatherLibrary.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherLibrary\obj\Debug\WeatherLibrary.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherLibrary\bin\Debug\WeatherLibrary.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherLibrary\obj\Debug\WeatherLibrary.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherLibrary\bin\Debug\WeatherLibrary.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherLibrary\obj\Debug\WeatherLibrary.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherLibrary\bin\Debug\WeatherLibrary.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherLibrary\obj\Debug\WeatherLibrary.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherLibrary\bin\Debug\WeatherLibrary.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherLibrary\obj\Debug\WeatherLibrary.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherLibrary\bin\Debug\WeatherLibrary.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherLibrary\obj\Debug\WeatherLibrary.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherLibrary\bin\Debug\WeatherLibrary.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherLibrary\obj\Debug\WeatherLibrary.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherLibrary\bin\Debug\WeatherLibrary.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherLibrary\obj\Debug\WeatherLibrary.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherLibrary\bin\Debug\WeatherLibrary.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherLibrary\obj\Debug\WeatherLibrary.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherLibrary\bin\Debug\WeatherLibrary.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherLibrary\obj\Debug\WeatherLibrary.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherLibrary\bin\Debug\WeatherLibrary.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherLibrary\obj\Debug\WeatherLibrary.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherLibrary\bin\Debug\WeatherLibrary.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherLibrary\obj\Debug\WeatherLibrary.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherLibrary\bin\Debug\WeatherLibrary.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherLibrary\obj\Debug\WeatherLibrary.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherLibrary\bin\Debug\WeatherLibrary.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherLibrary\obj\Debug\WeatherLibrary.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherLibrary\bin\Debug\WeatherLibrary.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherLibrary\obj\Debug\WeatherLibrary.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherLibrary\bin\Debug\WeatherLibrary.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherLibrary\obj\Debug\WeatherLibrary.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherLibrary\bin\Debug\WeatherLibrary.dll.mdb

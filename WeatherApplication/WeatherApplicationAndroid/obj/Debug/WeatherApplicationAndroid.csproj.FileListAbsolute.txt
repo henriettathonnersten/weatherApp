@@ -1,0 +1,261 @@
+c:\users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\bin\Debug\WeatherApplicationAndroid.dll
+c:\users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\bin\Debug\WeatherApplicationAndroid.pdb
+c:\users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\bin\Debug\WeatherApplicationAndroid.WeatherApplicationAndroid.apk
+c:\users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\bin\Debug\WeatherApplicationAndroid.WeatherApplicationAndroid-Signed.apk
+c:\users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\obj\Debug\WeatherApplicationAndroid.dll
+c:\users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\obj\Debug\WeatherApplicationAndroid.pdb
+c:\users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\bin\WeatherApplicationAndroid.WeatherApplicationAndroid.apk
+c:\users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\obj\Debug\res\layout\main.xml
+c:\users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\obj\Debug\res\values\strings.xml
+c:\users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\obj\Debug\res\drawable\icon.png
+c:\users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\obj\Debug\R.cs.flag
+c:\users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\obj\Debug\uploadflags.txt
+c:\users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\obj\Debug\res\values\styles.xml
+c:\users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\obj\Debug\res\values\colors.xml
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\obj\Debug\res\drawable\splashscreen.xml
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\obj\Debug\res\drawable\getmyweather.png
+C:\Users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\bin\Debug\WeatherApplicationAndroid.dll.mdb
+C:\Users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\bin\Debug\Java.Interop.dll.mdb
+C:\Users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\bin\Debug\Mono.Android.dll.mdb
+C:\Users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\bin\Debug\mscorlib.dll.mdb
+C:\Users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\bin\Debug\System.Core.dll.mdb
+C:\Users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\bin\Debug\System.dll.mdb
+C:\Users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\bin\Debug\System.Xml.dll.mdb
+C:\Users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\System.dll.mdb
+C:\Users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\WeatherApplicationAndroid.dll.mdb
+C:\Users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\obj\Debug\WeatherApplicationAndroid.csprojResolveAssemblyReference.cache
+C:\Users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\bin\Debug\WeatherLibrary.dll
+C:\Users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\bin\Debug\WeatherLibrary.pdb
+C:\Users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\bin\Debug\WeatherLibrary.dll.mdb
+C:\Users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\WeatherLibrary.dll.mdb
+C:\Users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\obj\Debug\res\layout\weather.xml
+C:\Users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\bin\Debug\ModernHttpClient.dll
+C:\Users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\bin\Debug\OkHttp.dll
+C:\Users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\bin\Debug\ModernHttpClient.dll.mdb
+C:\Users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\ModernHttpClient.dll.mdb
+C:\Users\henri\onedrive\documents\visual studio 2015\Projects\WeatherApplication\WeatherApplicationAndroid\obj\Debug\WeatherApplicationAndroid.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherApplicationAndroid\bin\Debug\WeatherApplicationAndroid.dll
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherApplicationAndroid\bin\Debug\WeatherApplicationAndroid.pdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherApplicationAndroid\bin\Debug\WeatherApplicationAndroid.WeatherApplicationAndroid.apk
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherApplicationAndroid\bin\Debug\WeatherApplicationAndroid.WeatherApplicationAndroid-Signed.apk
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherApplicationAndroid\bin\Debug\WeatherLibrary.dll
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherApplicationAndroid\bin\Debug\WeatherLibrary.pdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherApplicationAndroid\obj\Debug\WeatherApplicationAndroid.csprojResolveAssemblyReference.cache
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherApplicationAndroid\obj\Debug\WeatherApplicationAndroid.dll
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherApplicationAndroid\obj\Debug\WeatherApplicationAndroid.pdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\bin\WeatherApplicationAndroid.WeatherApplicationAndroid.apk
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherApplicationAndroid\obj\Debug\res\layout\weather.xml
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherApplicationAndroid\obj\Debug\res\layout\main.xml
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherApplicationAndroid\obj\Debug\res\values\strings.xml
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherApplicationAndroid\obj\Debug\res\drawable\icon.png
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherApplicationAndroid\obj\Debug\res\values\styles.xml
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherApplicationAndroid\obj\Debug\res\values\colors.xml
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherApplicationAndroid\obj\Debug\res\drawable\splashscreen.xml
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherApplicationAndroid\obj\Debug\res\drawable\getmyweather.png
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherApplicationAndroid\obj\Debug\R.cs.flag
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherApplicationAndroid\obj\Debug\uploadflags.txt
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherApplicationAndroid\bin\Debug\WeatherApplicationAndroid.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherApplicationAndroid\bin\Debug\WeatherLibrary.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherApplicationAndroid\bin\Debug\Java.Interop.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherApplicationAndroid\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherApplicationAndroid\bin\Debug\Mono.Android.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherApplicationAndroid\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherApplicationAndroid\bin\Debug\mscorlib.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherApplicationAndroid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherApplicationAndroid\bin\Debug\System.Core.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherApplicationAndroid\bin\Debug\System.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherApplicationAndroid\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherApplicationAndroid\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherApplicationAndroid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherApplicationAndroid\bin\Debug\System.Xml.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherApplicationAndroid\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\System.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\WeatherApplicationAndroid.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\WeatherLibrary.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-20\WeatherApplication\WeatherApplicationAndroid\obj\Debug\WeatherApplicationAndroid.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherApplicationAndroid\bin\Debug\WeatherApplicationAndroid.dll
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherApplicationAndroid\bin\Debug\WeatherApplicationAndroid.pdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherApplicationAndroid\bin\Debug\WeatherApplicationAndroid.WeatherApplicationAndroid.apk
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherApplicationAndroid\bin\Debug\WeatherApplicationAndroid.WeatherApplicationAndroid-Signed.apk
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherApplicationAndroid\bin\Debug\WeatherLibrary.dll
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherApplicationAndroid\bin\Debug\WeatherLibrary.pdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherApplicationAndroid\bin\Debug\WeatherLibrary.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherApplicationAndroid\obj\Debug\WeatherApplicationAndroid.csprojResolveAssemblyReference.cache
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherApplicationAndroid\obj\Debug\WeatherApplicationAndroid.dll
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherApplicationAndroid\obj\Debug\WeatherApplicationAndroid.pdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\bin\WeatherApplicationAndroid.WeatherApplicationAndroid.apk
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherApplicationAndroid\obj\Debug\res\layout\weather.xml
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherApplicationAndroid\obj\Debug\res\layout\main.xml
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherApplicationAndroid\obj\Debug\res\values\strings.xml
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherApplicationAndroid\obj\Debug\res\drawable\icon.png
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherApplicationAndroid\obj\Debug\res\values\styles.xml
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherApplicationAndroid\obj\Debug\res\values\colors.xml
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherApplicationAndroid\obj\Debug\res\drawable\splashscreen.xml
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherApplicationAndroid\obj\Debug\res\drawable\getmyweather.png
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherApplicationAndroid\obj\Debug\R.cs.flag
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherApplicationAndroid\obj\Debug\uploadflags.txt
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherApplicationAndroid\bin\Debug\Java.Interop.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherApplicationAndroid\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherApplicationAndroid\bin\Debug\Mono.Android.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherApplicationAndroid\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherApplicationAndroid\bin\Debug\mscorlib.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherApplicationAndroid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherApplicationAndroid\bin\Debug\System.Core.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherApplicationAndroid\bin\Debug\System.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherApplicationAndroid\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherApplicationAndroid\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherApplicationAndroid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherApplicationAndroid\bin\Debug\System.Xml.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherApplicationAndroid\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\System.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\WeatherApplicationAndroid.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\WeatherLibrary.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherApplicationAndroid\bin\Debug\WeatherApplicationAndroid.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-22\WeatherApplication\WeatherApplicationAndroid\obj\Debug\WeatherApplicationAndroid.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherApplicationAndroid\bin\Debug\WeatherApplicationAndroid.dll
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherApplicationAndroid\bin\Debug\WeatherApplicationAndroid.pdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherApplicationAndroid\bin\Debug\WeatherApplicationAndroid.WeatherApplicationAndroid.apk
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherApplicationAndroid\bin\Debug\WeatherApplicationAndroid.WeatherApplicationAndroid-Signed.apk
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherApplicationAndroid\bin\Debug\WeatherLibrary.dll
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherApplicationAndroid\bin\Debug\WeatherLibrary.pdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherApplicationAndroid\bin\Debug\WeatherLibrary.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherApplicationAndroid\obj\Debug\WeatherApplicationAndroid.csprojResolveAssemblyReference.cache
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherApplicationAndroid\obj\Debug\WeatherApplicationAndroid.dll
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherApplicationAndroid\obj\Debug\WeatherApplicationAndroid.pdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\bin\WeatherApplicationAndroid.WeatherApplicationAndroid.apk
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherApplicationAndroid\obj\Debug\res\layout\weather.xml
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherApplicationAndroid\obj\Debug\res\layout\main.xml
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherApplicationAndroid\obj\Debug\res\values\strings.xml
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherApplicationAndroid\obj\Debug\res\drawable\icon.png
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherApplicationAndroid\obj\Debug\res\values\styles.xml
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherApplicationAndroid\obj\Debug\res\values\colors.xml
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherApplicationAndroid\obj\Debug\res\drawable\splashscreen.xml
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherApplicationAndroid\obj\Debug\res\drawable\getmyweather.png
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherApplicationAndroid\obj\Debug\R.cs.flag
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherApplicationAndroid\obj\Debug\uploadflags.txt
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherApplicationAndroid\bin\Debug\Java.Interop.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherApplicationAndroid\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherApplicationAndroid\bin\Debug\Mono.Android.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherApplicationAndroid\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherApplicationAndroid\bin\Debug\mscorlib.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherApplicationAndroid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherApplicationAndroid\bin\Debug\System.Core.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherApplicationAndroid\bin\Debug\System.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherApplicationAndroid\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherApplicationAndroid\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherApplicationAndroid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherApplicationAndroid\bin\Debug\System.Xml.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherApplicationAndroid\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherApplicationAndroid\bin\Debug\WeatherApplicationAndroid.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\System.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\WeatherApplicationAndroid.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\WeatherLibrary.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23\WeatherApplication\WeatherApplicationAndroid\obj\Debug\WeatherApplicationAndroid.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherApplicationAndroid\bin\Debug\WeatherApplicationAndroid.dll
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherApplicationAndroid\bin\Debug\WeatherApplicationAndroid.pdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherApplicationAndroid\bin\Debug\WeatherApplicationAndroid.WeatherApplicationAndroid.apk
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherApplicationAndroid\bin\Debug\WeatherApplicationAndroid.WeatherApplicationAndroid-Signed.apk
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherApplicationAndroid\bin\Debug\WeatherLibrary.dll
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherApplicationAndroid\bin\Debug\WeatherLibrary.pdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherApplicationAndroid\bin\Debug\WeatherLibrary.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherApplicationAndroid\obj\Debug\WeatherApplicationAndroid.csprojResolveAssemblyReference.cache
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherApplicationAndroid\obj\Debug\WeatherApplicationAndroid.dll
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherApplicationAndroid\obj\Debug\WeatherApplicationAndroid.pdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\bin\WeatherApplicationAndroid.WeatherApplicationAndroid.apk
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherApplicationAndroid\obj\Debug\res\layout\weather.xml
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherApplicationAndroid\obj\Debug\res\layout\main.xml
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherApplicationAndroid\obj\Debug\res\values\strings.xml
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherApplicationAndroid\obj\Debug\res\drawable\icon.png
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherApplicationAndroid\obj\Debug\res\values\styles.xml
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherApplicationAndroid\obj\Debug\res\values\colors.xml
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherApplicationAndroid\obj\Debug\res\drawable\splashscreen.xml
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherApplicationAndroid\obj\Debug\res\drawable\getmyweather.png
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherApplicationAndroid\obj\Debug\R.cs.flag
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherApplicationAndroid\obj\Debug\uploadflags.txt
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherApplicationAndroid\bin\Debug\Java.Interop.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherApplicationAndroid\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherApplicationAndroid\bin\Debug\Mono.Android.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherApplicationAndroid\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherApplicationAndroid\bin\Debug\mscorlib.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherApplicationAndroid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherApplicationAndroid\bin\Debug\System.Core.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherApplicationAndroid\bin\Debug\System.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherApplicationAndroid\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherApplicationAndroid\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherApplicationAndroid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherApplicationAndroid\bin\Debug\System.Xml.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherApplicationAndroid\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherApplicationAndroid\bin\Debug\WeatherApplicationAndroid.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\System.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\WeatherApplicationAndroid.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherApplicationAndroid\obj\Debug\android\assets\WeatherLibrary.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherApplicationAndroid\obj\Debug\WeatherApplicationAndroid.dll.mdb
+C:\Users\henri\OneDrive\Documents\Visual Studio 2015\Projects\2018-08-23 - Copy\WeatherApplication\WeatherApplicationAndroid\bin\Debug\WeatherApplicationAndroid.dll.mdb
