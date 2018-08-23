@@ -1,0 +1,1 @@
+WeatherApplicationGherkinTests.WeatherAppTestsFeature.GetMyWeather_ButtonIsClickedWithFaultyInput
